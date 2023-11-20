@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">T&amp;HFIREBASE</string>
+
+    <string name="Description1">Temperatura</string>
+    <string name="Description">Humedad</string>
+</resources>
